@@ -1,0 +1,1 @@
+Duct Tape is a dependency injection framework for Android.
